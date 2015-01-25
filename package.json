@@ -1,0 +1,15 @@
+{
+  "name": "Website_Structure",
+  "version": "0.0.1",
+  "description": "Default website structure",
+  "author": "Eoin O'Brien",
+  "license": "All Rights Reserved",
+  "dependencies": {
+    "grunt": "^0.4.5"
+  },
+  "devDependencies": {
+    "grunt-browser-sync": "^1.5.3",
+    "grunt-contrib-sass": "^0.8.1",
+    "grunt-contrib-watch": "^0.6.1"
+  }
+}
