@@ -1,0 +1,33 @@
+body {
+    margin: 40px auto;
+    max-width: 650px;
+    line-height: 1.6;
+    font-size: 18px;
+    color: #333;
+    padding: 0 10px;
+    background: #eee;
+}
+h1,
+h2,
+h3 {
+    line-height: 1.2;
+}
+img {
+    max-width: 400px;
+}
+a {
+    color: #07b288;
+}
+a:visited {
+    color: #40796b;
+}
+.highlight {
+    border: 3px solid #3ddb12;
+    padding: 1rem;
+    background: #c6f9b8;
+    border-radius: 5px;
+}
+.highlight h1,
+.highlight h2 {
+    margin-top: 0.5rem;
+}
